@@ -32,3 +32,15 @@ Key Features of Pandas:
 
 
 8.It integrates with the other libraries such as SciPy, and scikit-learn.
+
+
+
+Topics Covered  as mentioned below:
+
+1. series : creation , accessing series element, series attributes
+2. Data Frame : Creation 
+3. Viewing the data
+4. Handling Rows operations: selection, adding ,deleting
+5. handling Column operations: selection, addition, deletion,renaming
+6. Data frame functions
+
